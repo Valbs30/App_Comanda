@@ -30,5 +30,19 @@
           "imagePath": "https://example.com/bbqburger.jpg",
           "preco": 12.99
         }
+      ],
+      "usuarios": [
+        {
+          "id": "1",
+          "nome": "Lucas Valbusa",
+          "email": "lucas@email.com.br",
+          "senha": "123"
+        },
+        {
+          "id": "2",
+          "nome": "João Carlos",
+          "email": "joao@email.com.br",
+          "senha": "890"
+        }
       ]
 }
